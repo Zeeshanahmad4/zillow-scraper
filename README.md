@@ -13,7 +13,7 @@
 </p>
 
 
->Open-source Zillow scraper built with Python and Selenium to extract property listings, rental data, prices, home details, and agent information. Automates real estate data collection into structured JSON/CSV for analysis, investment research, and market insights.
+>Zillow scraper built with Python and Selenium to extract property listings, rental data, prices, home details, and agent information. Automates real estate data collection into structured JSON/CSV for analysis, investment research, and market insights.
 
 <p align="center">
   <img alt="zillow-Baner" src="zillow-Baner.png" width="70%">
@@ -22,7 +22,7 @@
 ---
 
 ## Introduction
-The **Zillow Scraper** is an open-source tool built with **Python + Selenium** to extract:
+The **Zillow Scraper** built with **Python + Selenium** to extract:
 -  Property listings (addresses, prices, details)
 -  Rental data
 -  Property features (bedrooms, bathrooms, square footage)
