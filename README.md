@@ -1,14 +1,14 @@
 # Zillow Scraper – Python & Selenium
 
 <p align="center">
-  <a href="https://discord.gg/example">
-    <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge">
+  <a href="https://t.me/devpilot1">
+    <img src="https://img.shields.io/badge/Telegram-@devpilot1-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://t.me/example">
-    <img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-Message-2CA5E0?logo=telegram&style=for-the-badge">
+  <a href="https://discord.gg/zX7frTbx">
+    <img src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://example.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge">
+  <a href="https://www.bitbash.dev/">
+    <img src="https://img.shields.io/badge/Website-BitBash.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
